@@ -18,7 +18,7 @@
 
 ## Inputs
 
-* [Page 1](inputs/page-1.md)
+* [Accessibility](inputs/accessibility.md)
 
 ## Technologies
 
