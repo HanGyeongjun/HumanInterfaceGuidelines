@@ -11,6 +11,8 @@ description: >-
 iOS 생태계 내에서 HIG를 읽으시는 분들이 언어가 영어이다보니 많은 불편함을 겪는 것을 보게 되었고, 이에 한글로 번역을 하게 되었습니다. iOS 커뮤니티 Async Swift에서 자율적으로 모인 10명이 함께 번역했으며, 일체의 상업적인 목적을 띄지 않습니다. 이 문서를 학습에 적극적으로 이용해주시되, 상업적인 용도로 이용하시는 것은 지양해주시기 바랍니다. 감사합니다.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/foundations-branding-intro_2x.png" alt=""><figcaption></figcaption></figure>
+
 ## Introduction
 
 **앱과 게임은 플랫폼에서 집과 같은 편안함을 느끼면서 사람들에게 일관된 경험을 제공하며, 즉시 알아볼 수 있는 방식으로 고유한 브랜드 아이덴티티를 표현합니다.**
