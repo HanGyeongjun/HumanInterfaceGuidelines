@@ -1,5 +1,7 @@
 # About This Project
 
+### [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/)
+
 The HIG contains guidance and best practices that can help you design a great experience for any Apple platform.
 
 ***
