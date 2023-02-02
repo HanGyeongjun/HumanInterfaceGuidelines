@@ -1,8 +1,10 @@
 # Table of contents
 
+* [About This Project](README.md)
+
 ## Platforms
 
-* [Overview](README.md)
+* [Overview](platforms/overview.md)
 * [Designing for iOS](platforms/designing-for-ios.md)
 * [Designing for iPadOS](platforms/designing-for-ipados.md)
 * [Designing for macOS](platforms/designing-for-macos.md)
